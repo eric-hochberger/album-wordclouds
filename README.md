@@ -7,6 +7,6 @@ A way to visually explore the lyrics of your favorite albums with Genius.com.
 
 ## Screenshots
 
-![screenshot1](https://user-images.githubusercontent.com/55408707/67910762-fdc54f00-fb51-11e9-8f11-29af779bf7a6.png)
+![Screen Shot 2019-11-06 at 4 22 11 PM](https://user-images.githubusercontent.com/55408707/68343118-bb4fc500-00b1-11ea-8894-955360da7644.png)
 
-![Screen Shot 2019-10-30 at 8 22 20 PM](https://user-images.githubusercontent.com/55408707/67911044-0c603600-fb53-11e9-9fe4-ac0a34f0c308.png)
+![Screen Shot 2019-11-06 at 4 22 36 PM](https://user-images.githubusercontent.com/55408707/68343216-e20dfb80-00b1-11ea-917c-100c9b77f800.png)
