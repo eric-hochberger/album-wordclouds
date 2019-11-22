@@ -36,7 +36,7 @@ ui <- fluidPage(
                  uiOutput('variables'),
                  helpText("All data courtesy of ", a(href = "https://genius.com", "Genius.com,")," the world's biggest collection of song lyrics and musical knowledge.",
                           "The wordcloud tab displays the most frequently used words on the album with size corresponding to their relative frequency.
-                          The summary tab displays a histogram of the 10 most frequently used words ordered by the total number of mentions on the labum"),
+                          The summary tab displays a histogram of the 10 most frequently used words ordered by the total number of mentions on the album."),
                  htmlOutput("picture")
                  
                  
