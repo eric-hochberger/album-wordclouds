@@ -2,11 +2,20 @@
 A way to visually explore the lyrics of your favorite albums with Genius.com. 
 
 
+## Run Locally
+Run Wordclouds locally by executing the following code in R:
+
+```
+packages <- c("shiny", "tidyverse", "rvest", "janitor", "wordcloud", "tm", "RColorBrewer", "jpeg", "shinyWidgets", "shinythemes", "png", "jsonlite")
+install.packages(packages)
+library(shiny)
+runGitHub("album-wordclouds", "eric-hochberger")
+
+```
 
 
 
 ## Screenshots
+![Screen Shot 2019-11-22 at 1 53 57 PM](https://user-images.githubusercontent.com/55408707/69456239-c4869600-0d2f-11ea-9eb5-bff70a252635.png)
 
-![Screen Shot 2019-11-06 at 4 22 11 PM](https://user-images.githubusercontent.com/55408707/68343118-bb4fc500-00b1-11ea-8894-955360da7644.png)
-
-![Screen Shot 2019-11-06 at 4 22 36 PM](https://user-images.githubusercontent.com/55408707/68343216-e20dfb80-00b1-11ea-917c-100c9b77f800.png)
+![Screen Shot 2019-11-22 at 1 56 47 PM](https://user-images.githubusercontent.com/55408707/69456325-ff88c980-0d2f-11ea-90b8-8465d74bf56d.png)
