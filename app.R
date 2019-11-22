@@ -1,7 +1,7 @@
 # Wordclouds version 2.0.0 by Eric Hochberger
 # 11/20/19
 #
-# install.packages("shiny", "rvest", "tidyverse", "janitor", "wordcloud", "tm", "RColorBrewer", "jpeg", "shinyWidgets", "shinythemes", "png")
+# install.packages("shiny", "rvest", "tidyverse", "janitor", "wordcloud", "tm", "RColorBrewer", "jpeg", "shinyWidgets", "shinythemes", "png", "jsonlite")
 
 library(shiny)
 library(rvest)
@@ -14,6 +14,7 @@ library(jpeg)
 library(shinyWidgets)
 library(shinythemes)
 library(png)
+library(jsonlite)
 
 
 ui <- fluidPage(
