@@ -13,7 +13,8 @@ runGitHub("album-wordclouds", "eric-hochberger")
 
 ```
 
-
+## Run On a Browser
+https://erichochberger.shinyapps.io/AlbumWordclouds/
 
 ## Screenshots
 ![Screen Shot 2019-11-22 at 1 53 57 PM](https://user-images.githubusercontent.com/55408707/69456239-c4869600-0d2f-11ea-9eb5-bff70a252635.png)
